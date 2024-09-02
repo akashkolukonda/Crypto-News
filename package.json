@@ -6,7 +6,7 @@
     "scripts": {
       "start": "nodemon index.js"
     },
-    "author": "vivekananda",
+    "author": "akashkolukonda",
     "license": "ISC",
     "dependencies": {
       "axios": "^0.21.4",
